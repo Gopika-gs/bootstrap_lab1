@@ -1,0 +1,28 @@
+body{
+    margin: 61px;
+    background: rgb(244,120,184);
+    background: linear-gradient(0deg, rgba(244,120,184,1) 0%, rgba(96,65,154,1) 100%);
+}
+.row{
+    height: 172px;
+}
+.head{
+    font-size: 49px;
+    margin: 30px;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.second_row img{
+    height: 149px;
+}
+.quotes{
+    font-size: 28px;
+    margin: 15px;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Square Peg', cursive;
+    background-color: 6998AB;
+}
+
+.fourth_row img{
+    height: 149px;
+}
